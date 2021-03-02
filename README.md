@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Feel free to ask and share!
+
 <!--
 **Cengineer00/Cengineer00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -12,6 +14,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-https://www.linkedin.com/in/cengineer13/
-
-https://www.goodreads.com/cengineer
+- https://www.linkedin.com/in/cengineer13/
+- https://www.goodreads.com/cengineer
