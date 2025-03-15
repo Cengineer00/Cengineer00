@@ -1,20 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Orhun! 👋
 
-Feel free to ask and share!
+I'm an AI Engineer and Content Creator passionate about Computer Vision, Deep Learning, and making complex topics fun and understandable. 🚀
 
-<!--
-**Cengineer00/Cengineer00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## 🏆 About Me
 
-<!-- - 🔭 I’m currently working on using Docker in compiling projects of company of Etiya -->
-<!-- -->
-<!-- - 🌱 I’m currently learning Docker -->
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about --> 
-- 📫 How to reach me: By email or linkedin.<br/><br/>
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- **AI Engineer** with expertise in Computer Vision, Deep Learning, and Data Science.
+- **Content Creator** on Instagram & YouTube, making AI accessible and entertaining.
+- **Podcast Co-Host** of 'Noktalı Virgül'—helping students and new grads navigate their CS careers.
 
-
-- https://www.linkedin.com/in/cengineer13/
-- https://www.goodreads.com/cengineer
+# What I'm Working On
+[AI Content Studio](https://github.com/Cengineer00/content-creation-tools): I'm putting together some open-source tools like text-to-image, text-to-video, image upscaling and some more functionalities to automatize content creation efforts of creators.
