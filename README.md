@@ -2,6 +2,8 @@
 
 I'm an AI Engineer and Content Creator passionate about Computer Vision, Deep Learning, and making complex topics fun and understandable. 🚀
 
+![Profile Views](https://komarev.com/ghpvc/?username=Cengineer00)
+
 ## About Me
 
 - **AI Engineer** with expertise in Computer Vision, Deep Learning, and Data Science.
